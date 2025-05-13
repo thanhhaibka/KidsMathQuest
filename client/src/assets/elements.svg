@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500">
+  <!-- Clouds -->
+  <g id="cloud1">
+    <circle cx="50" cy="50" r="20" fill="#FFF" />
+    <circle cx="70" cy="40" r="20" fill="#FFF" />
+    <circle cx="90" cy="50" r="20" fill="#FFF" />
+    <circle cx="70" cy="60" r="20" fill="#FFF" />
+    <rect x="50" y="50" width="40" height="20" fill="#FFF" />
+  </g>
+
+  <!-- Sun -->
+  <g id="sun">
+    <circle cx="400" cy="80" r="30" fill="#FFD700" />
+    <line x1="400" y1="30" x2="400" y2="20" stroke="#FFD700" stroke-width="4" />
+    <line x1="400" y1="130" x2="400" y2="140" stroke="#FFD700" stroke-width="4" />
+    <line x1="350" y1="80" x2="340" y2="80" stroke="#FFD700" stroke-width="4" />
+    <line x1="450" y1="80" x2="460" y2="80" stroke="#FFD700" stroke-width="4" />
+    <line x1="365" y1="45" x2="355" y2="35" stroke="#FFD700" stroke-width="4" />
+    <line x1="435" y1="115" x2="445" y2="125" stroke="#FFD700" stroke-width="4" />
+    <line x1="365" y1="115" x2="355" y2="125" stroke="#FFD700" stroke-width="4" />
+    <line x1="435" y1="45" x2="445" y2="35" stroke="#FFD700" stroke-width="4" />
+  </g>
+
+  <!-- Tree -->
+  <g id="tree">
+    <rect x="190" y="300" width="20" height="60" fill="#8B4513" />
+    <polygon points="200,240 160,300 240,300" fill="#228B22" />
+    <polygon points="200,200 170,250 230,250" fill="#228B22" />
+    <polygon points="200,170 180,210 220,210" fill="#228B22" />
+  </g>
+
+  <!-- Flowers -->
+  <g id="flowers">
+    <circle cx="300" cy="350" r="5" fill="#FF1493" />
+    <circle cx="305" cy="345" r="5" fill="#FF1493" />
+    <circle cx="295" cy="345" r="5" fill="#FF1493" />
+    <circle cx="305" cy="355" r="5" fill="#FF1493" />
+    <circle cx="295" cy="355" r="5" fill="#FF1493" />
+    <circle cx="300" cy="350" r="3" fill="#FFFF00" />
+    <line x1="300" y1="355" x2="300" y2="375" stroke="#3CB371" stroke-width="2" />
+    
+    <circle cx="330" cy="360" r="5" fill="#4169E1" />
+    <circle cx="335" cy="355" r="5" fill="#4169E1" />
+    <circle cx="325" cy="355" r="5" fill="#4169E1" />
+    <circle cx="335" cy="365" r="5" fill="#4169E1" />
+    <circle cx="325" cy="365" r="5" fill="#4169E1" />
+    <circle cx="330" cy="360" r="3" fill="#FFFF00" />
+    <line x1="330" y1="365" x2="330" y2="385" stroke="#3CB371" stroke-width="2" />
+    
+    <circle cx="360" cy="355" r="5" fill="#FF4500" />
+    <circle cx="365" cy="350" r="5" fill="#FF4500" />
+    <circle cx="355" cy="350" r="5" fill="#FF4500" />
+    <circle cx="365" cy="360" r="5" fill="#FF4500" />
+    <circle cx="355" cy="360" r="5" fill="#FF4500" />
+    <circle cx="360" cy="355" r="3" fill="#FFFF00" />
+    <line x1="360" y1="360" x2="360" y2="380" stroke="#3CB371" stroke-width="2" />
+  </g>
+
+  <!-- Stars -->
+  <g id="stars">
+    <polygon points="50,150 55,160 65,162 58,170 60,180 50,175 40,180 42,170 35,162 45,160" fill="#FFD700" />
+    <polygon points="90,180 95,190 105,192 98,200 100,210 90,205 80,210 82,200 75,192 85,190" fill="#FFD700" />
+    <polygon points="130,150 135,160 145,162 138,170 140,180 130,175 120,180 122,170 115,162 125,160" fill="#FFD700" />
+  </g>
+
+  <!-- Rainbow -->
+  <g id="rainbow">
+    <path d="M380,250 Q450,180 520,250" stroke="#FF0000" stroke-width="10" fill="none" />
+    <path d="M380,260 Q450,190 520,260" stroke="#FF7F00" stroke-width="10" fill="none" />
+    <path d="M380,270 Q450,200 520,270" stroke="#FFFF00" stroke-width="10" fill="none" />
+    <path d="M380,280 Q450,210 520,280" stroke="#00FF00" stroke-width="10" fill="none" />
+    <path d="M380,290 Q450,220 520,290" stroke="#0000FF" stroke-width="10" fill="none" />
+    <path d="M380,300 Q450,230 520,300" stroke="#4B0082" stroke-width="10" fill="none" />
+    <path d="M380,310 Q450,240 520,310" stroke="#9400D3" stroke-width="10" fill="none" />
+  </g>
+</svg>
